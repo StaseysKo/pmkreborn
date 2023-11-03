@@ -16,7 +16,8 @@ import AccessTimeOutlinedIcon from '@mui/icons-material/AccessTimeOutlined';
 import Layout from 'src/layouts';
 
 // components
-import { Page, Markdown, TextIconLabel, HowItWork, DetailsGallery, SideCardService, Iconify, CustomBreadcrumbs } from 'src/components';
+import { Page, Markdown, TextIconLabel, HowItWork, DetailsGallery, SideCardService, CustomBreadcrumbs } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 import {SubmitApplicationForm} from 'src/components/feedBackForms/submitApplicationForm'
 

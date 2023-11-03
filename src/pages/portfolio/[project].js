@@ -31,7 +31,8 @@ import { HEADER_MOBILE_HEIGHT, HEADER_DESKTOP_HEIGHT } from 'src/config';
 import Layout from 'src/layouts';
 
 // components
-import { Page, Markdown, DetailsGallery, TextIconLabel, Iconify, SideCardProject, CardTags, CustomBreadcrumbs } from '/src/components';
+import { Page, Markdown, DetailsGallery, TextIconLabel, SideCardProject, CardTags, CustomBreadcrumbs } from '/src/components';
+import { Iconify } from 'src/components/iconify';
 import { MainFeedBackForm } from 'src/components/feedBackForms/mainFeedBackForm'
 
 // sections

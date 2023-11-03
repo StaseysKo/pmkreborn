@@ -5,8 +5,9 @@ import quotesIcon from '@iconify/icons-carbon/quotes';
 import { styled } from '@mui/material/styles';
 import { Typography, Grid, Stack } from '@mui/material';
 // components
-import { Iconify, Lightbox, useLightBox  } from 'src/components'
+import { Lightbox, useLightBox  } from 'src/components'
 
+import { Iconify } from 'src/components/iconify';
 // ----------------------------------------------------------------------
 
 const RootStyle = styled('div')(({ theme }) => ({

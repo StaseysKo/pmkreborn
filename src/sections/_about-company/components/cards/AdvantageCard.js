@@ -5,7 +5,8 @@ import checkmarkIcon from '@iconify/icons-carbon/checkmark';
 // @mui
 import { Card, Stack, Button, Typography } from '@mui/material';
 //
-import { Iconify, TextIconLabel } from 'src/components';
+import { TextIconLabel } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 import directionStraightRight from '@iconify/icons-carbon/direction-straight-right';
 

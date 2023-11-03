@@ -7,7 +7,8 @@ import { useTheme, styled } from '@mui/material/styles';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { Typography, Stack, Box, Link, Button, Container } from '@mui/material';
 
-import { TextIconLabel, Iconify, CustomBreadcrumbs } from 'src/components';
+import { TextIconLabel, CustomBreadcrumbs } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 import cssStyles from 'src/utils/cssStyles';
 

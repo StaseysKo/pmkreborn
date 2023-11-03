@@ -4,7 +4,8 @@ import PropTypes from 'prop-types';
 import { styled } from '@mui/material/styles';
 import { Typography, Stack, Container, Box, Button } from '@mui/material';
 // components
-import { SvgIconStyle, Iconify } from 'src/components';
+import { SvgIconStyle } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 import directionStraightRight from '@iconify/icons-carbon/direction-straight-right';
 

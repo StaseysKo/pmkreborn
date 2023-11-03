@@ -21,7 +21,8 @@ import {
 // config
 import { DRAWER_WIDTH } from 'src/config';
 // components
-import { Logo, Scrollbar, NavSection, Iconify } from 'src/components';
+import { Logo, Scrollbar, NavSection } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 import { IconButtonAnimate } from 'src/components/animate';
 
 // ----------------------------------------------------------------------

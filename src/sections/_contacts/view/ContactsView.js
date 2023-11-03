@@ -5,7 +5,8 @@ import dynamic from 'next/dynamic';
 import { Box, Typography, Stack, Paper, Container, Grid, Divider } from '@mui/material';
 import { styled } from '@mui/material/styles';
 
-import { Iconify, TextIconLabel } from 'src/components';
+import { TextIconLabel } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 import Layout from 'src/layouts';
 import { StillHaveQuestionsForm } from 'src/components/feedBackForms/stillHaveQuestionsForm'
 import { _contactData } from '_data'

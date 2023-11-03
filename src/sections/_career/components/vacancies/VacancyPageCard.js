@@ -6,7 +6,8 @@ import increaseLevel from '@iconify/icons-carbon/increase-level';
 // @mui
 import { Stack, Typography, Card } from '@mui/material';
 // components
-import { Iconify, TextIconLabel } from 'src/components';
+import { TextIconLabel } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 // ----------------------------------------------------------------------
 

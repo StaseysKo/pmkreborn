@@ -7,7 +7,8 @@ import inventoryManagement from '@iconify/icons-carbon/inventory-management';
 import { styled } from '@mui/material/styles';
 import { Box, Autocomplete, InputAdornment, TextField } from '@mui/material';
 // components
-import { Iconify, SearchNotFound } from 'src/components';
+import { SearchNotFound } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 import roundBusiness from '@iconify/icons-ic/round-business';
 
 // ----------------------------------------------------------------------

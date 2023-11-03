@@ -10,7 +10,8 @@ import { Modal, Box, IconButton, Container } from '@mui/material';
 // config
 import { HEADER_MOBILE_HEIGHT, HEADER_DESKTOP_HEIGHT } from 'src/config';
 // components
-import { ServiceCard, ProjectCard, Iconify } from 'src/components';
+import { ServiceCard, ProjectCard } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 import { IconButtonAnimate } from 'src/components/animate';
 
 // ----------------------------------------------------------------------

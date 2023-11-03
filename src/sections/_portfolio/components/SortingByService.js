@@ -8,7 +8,8 @@ import { styled } from '@mui/material/styles';
 import { Box, Autocomplete, InputAdornment, TextField } from '@mui/material';
 
 // components
-import { Iconify, SearchNotFound } from 'src/components';
+import { SearchNotFound } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 // ----------------------------------------------------------------------
 

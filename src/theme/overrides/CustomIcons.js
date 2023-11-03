@@ -7,7 +7,7 @@ import closeFilled from '@iconify/icons-carbon/close-filled';
 // @mui
 import { SvgIcon } from '@mui/material';
 // components
-import { Iconify } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 // ----------------------------------------------------------------------
 

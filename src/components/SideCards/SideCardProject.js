@@ -17,7 +17,8 @@ import TextField from '@mui/material/TextField';
 import CloseIcon from '@mui/icons-material/Close';
 
 // components 
-import { ManagerMessengersIcons, Iconify } from 'src/components';
+import { ManagerMessengersIcons } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 import { CallBackForm } from 'src/components/feedBackForms/callBackForm'
 
 // data

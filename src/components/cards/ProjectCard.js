@@ -4,7 +4,8 @@ import { Card, Stack, Grid, Typography, Divider } from '@mui/material';
 
 import locationIcon from '@iconify/icons-carbon/location';
 
-import { TextMaxLine, TextIconLabel, Image, Iconify } from 'src/components';
+import { TextMaxLine, TextIconLabel, Image } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 import Routes from 'src/routes';
 

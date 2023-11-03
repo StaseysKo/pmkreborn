@@ -4,7 +4,7 @@ import searchIcon from '@iconify/icons-carbon/search';
 import { InputAdornment, FilledInput } from '@mui/material';
 import { styled } from '@mui/material/styles';
 //
-import { Iconify } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 // ----------------------------------------------------------------------
 

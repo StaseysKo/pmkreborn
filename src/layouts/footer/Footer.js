@@ -22,7 +22,8 @@ import {
 // hooks
 import { useResponsive } from 'src/hooks';
 // components
-import { Logo, SocialNetworksButton, Iconify } from 'src/components';
+import { Logo, SocialNetworksButton } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 //
 import { PageLinks } from '../nav/NavConfig';
 

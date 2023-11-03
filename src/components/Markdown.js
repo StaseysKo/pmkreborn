@@ -12,7 +12,7 @@ import { Link, Stack, Divider, Typography } from '@mui/material';
 // components
 import { Image } from '.'
 
-import { Iconify } from 'src/components';;
+import { Iconify } from 'src/components/iconify';
 
 // ----------------------------------------------------------------------
 

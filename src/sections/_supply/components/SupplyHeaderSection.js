@@ -3,7 +3,7 @@ import { styled, alpha } from '@mui/material/styles';
 
 import { Stack, Button, Container, Typography, Grid } from '@mui/material';
 // components
-import { Iconify } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 import { bgGradient } from 'src/utils/cssStyles';
 

@@ -3,7 +3,7 @@ import { styled } from '@mui/material/styles';
 import { TextField, InputAdornment } from '@mui/material';
 import roundBusiness from '@iconify/icons-ic/round-business';
 
-import { Iconify } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 const RootStyle = styled('div')(({ theme }) => ({
   width: '100%',

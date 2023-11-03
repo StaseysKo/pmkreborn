@@ -12,9 +12,9 @@ import { Divider, Stack, Card, Typography, Grid } from '@mui/material';
 import Routes from 'src/routes';
 // components
 import {
-  Iconify,
   TextIconLabel,
 } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 // ----------------------------------------------------------------------
 

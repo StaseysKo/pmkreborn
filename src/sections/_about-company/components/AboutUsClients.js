@@ -5,7 +5,8 @@ import { useTheme } from '@mui/material/styles';
 import { styled } from '@mui/material/styles';
 import { Container, Stack, Typography, Button } from '@mui/material';
 // components
-import { Iconify, SvgColor, Carousel } from 'src/components';
+import { SvgColor, Carousel } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 import directionStraightRight from '@iconify/icons-carbon/direction-straight-right';
 

@@ -10,7 +10,8 @@ import cssStyles from 'src/utils/cssStyles';
 import useResponsive from 'src/hooks/useResponsive';
 import Routes from 'src/routes';
 // components
-import { Image, BgOverlay, Typewriter, Iconify } from 'src/components';
+import { Image, BgOverlay, Typewriter } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 // ----------------------------------------------------------------------
 
