@@ -67,6 +67,9 @@ const LinkStyle = styled('div')(({ theme }) => ({
 }));
 
 
+Footer.displayName = 'Footer';
+DesktopFooter.displayName = 'DesktopFooter';
+MobileFooter.displayName = 'MobileFooter';
 
 export default function Footer() {
     

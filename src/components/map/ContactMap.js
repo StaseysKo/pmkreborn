@@ -57,7 +57,7 @@ export default function ContactMap({ locations, sx, ...other }) {
     if (tooltip) {
       placemarks[tooltip.title]?.balloon.open();
     }
-  }, [tooltip]);
+  }, [tooltip, placemarks]);  
 
   return (
     <Box sx={{ height: 580, overflow: 'hidden', ...sx }} {...other}>

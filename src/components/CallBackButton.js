@@ -55,6 +55,8 @@ const MessengerItem = memo(({ value, href, color, icon, label, handleRequestCall
   </a>
 ));
 
+FloatingButton.displayName = 'FloatingButton';
+
 export default function FloatingButton () {
 
   const [open, setOpen] = useState(false);

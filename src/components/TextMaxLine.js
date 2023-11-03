@@ -63,4 +63,5 @@ TextMaxLine.propTypes = {
   ]),
 };
 
+TextMaxLine.displayName = 'TextMaxLine';
 export default TextMaxLine;

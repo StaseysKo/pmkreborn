@@ -88,7 +88,8 @@ export default function PortfolioView() {
     if (arrOfIndustriesNames.includes(categoryFromUrl)) {
       setFilters(prevFilters => ({ ...prevFilters, filterCategories: categoryFromUrl }));
     }
-  }, [router.query.category]);
+  }, [router.query.category, arrOfServicesNames, arrOfIndustriesNames]);
+  
 
   const handleFilterChange = (type, value) => {
     setFilters(prevFilters => ({ ...prevFilters, [type]: value }));

@@ -25,4 +25,6 @@ Page.propTypes = {
   title: PropTypes.string.isRequired,
 };
 
+Page.displayName = 'Page';
+
 export default Page;

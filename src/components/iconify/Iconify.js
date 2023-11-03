@@ -25,5 +25,5 @@ Iconify.propTypes = {
   sx: PropTypes.object,
   width: PropTypes.number,
 };
-
+Iconify.displayName = 'Iconify';
 export default Iconify;

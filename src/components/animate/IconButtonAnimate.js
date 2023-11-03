@@ -19,7 +19,7 @@ IconButtonAnimate.propTypes = {
   sxWrap: PropTypes.object,
   size: PropTypes.oneOf(['small', 'medium', 'large']),
 };
-
+IconButtonAnimate.displayName = 'IconButtonAnimate';
 export default IconButtonAnimate;
 
 // ----------------------------------------------------------------------
@@ -44,6 +44,8 @@ AnimateWrap.propTypes = {
   size: PropTypes.oneOf(['small', 'medium', 'large']),
   sxWrap: PropTypes.object,
 };
+
+AnimateWrap.displayName = 'AnimateWrap';
 
 function AnimateWrap({ size, children, sxWrap }) {
   const isSmall = size === 'small';
