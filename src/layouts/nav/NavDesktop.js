@@ -8,10 +8,6 @@ import { useRouter } from 'next/router';
 // @mui
 import { styled } from '@mui/material/styles';
 import { Link, Stack } from '@mui/material';
-// components
-import { Iconify } from 'src/components';
-//
-import NavDesktopMenu from './NavDesktopMenu';
 
 // ----------------------------------------------------------------------
 

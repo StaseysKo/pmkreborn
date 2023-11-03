@@ -12,7 +12,8 @@ import { dataImg } from '_data/dataImg.js';
 import CountUpNumber from 'src/utils/CountUpNumber.js'
 
 // components
-import { Image, Iconify } from 'src/components';
+import { Image } from 'src/components';
+import { Iconify } from 'src/components/iconify';
 
 import { HEADER_DESKTOP_HEIGHT } from 'src/config'
 
