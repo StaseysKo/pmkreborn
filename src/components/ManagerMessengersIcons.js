@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { alpha } from '@mui/material/styles';
 import { Stack, IconButton, Button, Link } from '@mui/material';
 //
-import { Iconify } from './Iconify';
+import { Iconify } from 'src/components/iconify';
 
 import { Viber } from 'src/components';
 

@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import ReactLightbox from "yet-another-react-lightbox";
 import Zoom from "yet-another-react-lightbox/plugins/zoom";
 //
-import { Iconify } from "../Iconify";
+import { Iconify } from 'src/components/iconify';
 //
 import StyledLightbox from "./styles";
 

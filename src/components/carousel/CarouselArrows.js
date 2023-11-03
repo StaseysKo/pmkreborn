@@ -5,7 +5,7 @@ import directionStraightRight from '@iconify/icons-carbon/direction-straight-rig
 import { useTheme, styled } from '@mui/material/styles';
 import { Box, Stack } from '@mui/material';
 //
-import { Iconify } from '../Iconify';
+import { Iconify } from 'src/components/iconify';
 import { IconButtonAnimate } from '../animate';
 
 // ----------------------------------------------------------------------

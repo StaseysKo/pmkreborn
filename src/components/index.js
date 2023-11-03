@@ -5,7 +5,7 @@ export * from './custom-breadcrumbs';
 export * from './lightbox';
 export * from './SideCards';
 // export * from './feedBackForms';
-export * from './Iconify';
+export * from './iconify/Iconify';
 
 export { default as Page } from './Page';
 export { default as Logo } from './Logo';
@@ -17,7 +17,7 @@ export { default as Scrollbar } from './Scrollbar';
 export { default as NavSection } from './NavSection';
 export { default as TextIconLabel } from './TextIconLabel';
 export { default as BgOverlay } from './BgOverlay';
-export { default as Typewriter } from './Typewriter';
+export { default as Typewriter } from './TypeWriter';
 export { default as ProgressBar } from './ProgressBar';
 export { default as Markdown } from './Markdown';
 export { default as ManagerMessengersIcons } from './ManagerMessengersIcons';
